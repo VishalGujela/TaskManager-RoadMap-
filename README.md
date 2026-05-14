@@ -222,6 +222,6 @@ Possible enhancements:
 
 Created by Vishal Gujela.
 For Fun!!!
-GitHub Repository:
+Project URL:
 
 [https://github.com/VishalGujela/TaskManager-RoadMap-](https://github.com/VishalGujela/TaskManager-RoadMap-)
